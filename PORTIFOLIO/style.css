@@ -1,0 +1,20 @@
+body {
+    background-color: #000000;
+    color: #F6F6F6;
+}
+
+strong {
+    color: #22D4fD;
+}
+
+.card {
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    max-width: 50%;
+    display: inline-block;
+}
+
+.perfil {
+    width: 300px;
+}
